@@ -1,6 +1,6 @@
 *** Settings ***
 Library     Selenium Library
-Resource    .../Resources/MainResources.robot
+Resource    ../Resources/MainResources.robot
 
 
 

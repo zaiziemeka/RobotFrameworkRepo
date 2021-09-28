@@ -14,7 +14,8 @@ Robot Framework has easy syntax, utilizing human-readable keywords. Its capabili
 You will need the following installed to ensure that Robot Framework is installed:
 * An IDE (PyCharm or IntelliJ are suitable for Robot Framework)
 * pip (this is the library used to install python libraries ) 
-* Robot Framework (This will need to be installed via *pip3 install robot-framework*)
+* Robot Framework (This will need to be installed via: 
+`pip3 install robot-framework`
 * Run Robot Framework TestCase
 * Robot Framework Support
 * IntelliBot @SeleniumLibrary Patched

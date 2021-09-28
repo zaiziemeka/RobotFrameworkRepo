@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57bb178f-df75-4b66-8364-db0fd6b1c81c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TestCases/BrowserLogin.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/MainResources.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/MainResources.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/TestCase1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TestCase1.robot" afterDir="false" />
-    </list>
+    <list default="true" id="57bb178f-df75-4b66-8364-db0fd6b1c81c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
